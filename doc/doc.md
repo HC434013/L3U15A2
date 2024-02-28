@@ -38,4 +38,4 @@ The final product fulfils client requirements by containing:
 - An online contact form intended for inquiries and employee applications
 - References to online web development courses outlined as a recommended job specification
 
-Audience requirements are also fulfilled; as the site acts as a profile for a company that the target audience (a web developer looking for work) can use to decide on applying for work at this organisation.
+Audience requirements are also fulfilled; as the site acts as a profile for a company that the target audience (a web developer looking for work) can use to decide on applying for work at this organisation. Applying can be done via an online form available at the Careers page and the footer of each page.
